@@ -1,9 +1,7 @@
-# y
-
-![banner]()
+# CS Sandbox
 
 
-> Sandbox for learning and practicing CS skills, mostly in javascript. 
+> Sandbox for learning and practicing CS skills, mostly in Javascript.
 
 ## Table of Contents
 
